@@ -1,3 +1,3 @@
 # Fswesoke-v0
-Fullstack-websovellukehitys-kurssin viikon 0 tehtävät
+Fullstack-websovelluskehitys-kurssin viikon 0 tehtävät.<br />
 https://fullstack-hy.github.io/
